@@ -1,0 +1,14 @@
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.dll
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.pdb
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.dll
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.pdb
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.csprojResolveAssemblyReference.cache
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.dll
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.pdb
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.dll
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.pdb
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.dll
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\bin\Debug\Lab7Lib.pdb
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.csprojResolveAssemblyReference.cache
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.dll
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7Lib\Lab7Lib\obj\Debug\Lab7Lib.pdb

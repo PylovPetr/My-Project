@@ -1,0 +1,26 @@
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\bin\Debug\Lab7.exe
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\bin\Debug\Lab7.pdb
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+c:\users\андрей\documents\visual studio 2010\Projects\Lab7\Lab7\obj\x86\Debug\Lab7.Form1.resources
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.csprojResolveAssemblyReference.cache
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.Form1.resources
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.Properties.Resources.resources
+C:\Users\ptkuz\OneDrive\Рабочий стол\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.csproj.GenerateResource.Cache
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab2_2462427 (1)(1)\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab2_2462427 (1)(1)\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.Form1.resources
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.Properties.Resources.resources
+E:\Users\Desktop\5_SEMESTR\Архитектура ИС\ALL_IS_READY\Praktika\Lab_7\Lab_7_Forms\Lab2_2462427 (1)\Lab7\Lab7\obj\x86\Debug\Lab7.csproj.GenerateResource.Cache
